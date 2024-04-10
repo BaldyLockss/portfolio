@@ -1,0 +1,24 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-background: rgb(196, 196, 196);
+  --clr-fm: white;
+  --clr-fs: red;
+
+  --fs-l: 2rem;
+  --fs-m: 1.25rem;
+  --fs-s: 0.78rem;
+
+  --fw-bold: 900;
+  --fw-normal: 500;
+
+  --padding-container: 2rem;
+
+
+}
